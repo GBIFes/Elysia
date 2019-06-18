@@ -8,6 +8,7 @@ Aplicación informática gratuita y de código abierto, desarrollada por la Unid
 <p>- Mejora en el tratamiento de las imágenes</p>
 <p>- En Entrada Rápida se incluye el campo DATUM </p>
 <p>- Se inluye la posibilidad de elegir el orden en la impresión de etiquetas</p>
+<p>- Ampliación del tamaño de los campos Genero, Especie.</p>
 
 # Versión Elysia 1.0
 La versión de Elysia 1.0 esta disponible en **[este enlace](https://www.gbif.es/elysia1-2k2_32/)**.
