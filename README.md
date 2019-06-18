@@ -13,5 +13,5 @@ Aplicación informática gratuita y de código abierto, desarrollada por la Unid
 # Versión Elysia 1.0
 <p>La versión de Elysia 1.0 esta disponible para MS Office de 32 bits **[este enlace](https://www.gbif.es/elysia1-2k2_32/)**.</p>
 <p>La versión de Elysia 1.0 esta disponible para MS Office de 64 bits **[este enlace](https://www.gbif.es/elysia1-2k2_32/)**.</p>
-<p>Para más información visite la web de Elysia en **[www.gbif.es/software/elysia/](https://www.gbif.es/software/elysia/)**.</p>
+<p>Para más información visite la web de Elysia en **[www.gbif.es/software/elysia/] (https://www.gbif.es/software/elysia/)**.</p>
 
