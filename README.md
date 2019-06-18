@@ -11,7 +11,7 @@ Aplicación informática gratuita y de código abierto, desarrollada por la Unid
 <p>- Ampliación del tamaño de los campos Genero, Especie.</p>
 
 # Versión Elysia 1.0
-<p>La versión de Elysia 1.0 esta disponible para MS Office de 32 bits en la zona de los archivos **[este enlace](https://github.com/GBIFes/Elysia/blob/master/Elysia1-2k2_(32).zip)**.</p>
+<p>La versión de Elysia 1.0 esta disponible para MS Office de 32 bits en la zona de los archivos o en el siguiente enlace [https://github.com/GBIFes/Elysia/blob/master/Elysia1-2k2_(32).zip].</p>
 <p>La versión de Elysia 1.0 esta disponible para MS Office de 64 bits en la zona de los archivos o en el siguiente enlace [https://github.com/GBIFes/Elysia/blob/master/Elysia1-2k2_(64).zip].</p>
-<p>Para más información visite la web de Elysia en **[www.gbif.es/software/elysia/] (https://www.gbif.es/software/elysia/)**.</p>
+<p>Para más información visite la web de Elysia en [https://www.gbif.es/software/elysia/]</p>
 
