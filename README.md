@@ -2,9 +2,9 @@
 Aplicación informática gratuita y de código abierto, desarrollada por la Unidad de Coordinación de GBIF España para informatizar y gestionar tanto colecciones botánicas como zoológicas.
 # Última Versión Elysia 3.0
 <p>La versión de Elysia 3.0 esta disponible para MS Office de 32 bits en la zona de los archivos o en el siguiente enlace 
-[https://www.gbif.es/wp-content/uploads/2022/07/Elysia_V3_32-1.zip].</p>
+[https://www.gbif.es/wp-content/uploads/2022/07/Elysia_V3_32-2.zip].</p>
 <p>La versión de Elysia 3.0 esta disponible para MS Office de 64 bits en la zona de los archivos o en el siguiente enlace 
-[https://www.gbif.es/wp-content/uploads/2022/07/Elysia_V3_64.zip].</p>
+[https://www.gbif.es/wp-content/uploads/2022/07/Elysia_V3_64-1.zip].</p>
 <p>Para más información visite la web de Elysia en [https://www.gbif.es/software/elysia/]</p>
 <h6>Mejoras:</h6>
 <p>- Se permite la exportación al portal de datos desde Entrada Rápida (ER).</p>
