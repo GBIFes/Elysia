@@ -7,11 +7,11 @@ Aplicación informática gratuita y de código abierto, desarrollada por la Unid
 [https://www.gbif.es/wp-content/uploads/2022/07/Elysia_V3_64.zip].</p>
 <p>Para más información visite la web de Elysia en [https://www.gbif.es/software/elysia/]</p>
 <h6>Mejoras:</h6>
-<p>- Se permite la exportación al portal de datos desde Entrada Rápida.</p>
-<p>- Se permite la impresión de etiquetas con atributos desde ER asi como desde préstamos.</p>
-<p>- Se modifican los formulario de centros, personas, sobres incluyendo la misma filosofia que en prestamos.</p>
-<p>- El campo Parentales y familia forman parte de la clave en la tabla de la colección NOMEN</p>
-<p>- Se incluye árbol de táxones con sus relaciones jerárquicas (rangos de reino, clase, orden y familia) obtenido de https://www.catalogueoflife.org, a partir de éste se completa la información de los nombres por encima de familia a partir del contenido del campo Grupo/Familia.</p>
+<p>- Se permite la exportación al portal de datos desde Entrada Rápida (ER).</p>
+<p>- Se permite la impresión de etiquetas con atributos desde ER así como desde préstamos.</p>
+<p>- Se modifican los formularios de centros, personas, sobres incluyendo la misma filosofía que en prestamos.</p>
+<p>- El campo Parentales y Familia forman parte de la clave en la tabla de la colección NOMEN</p>
+<p>- Se incluye un árbol de táxones con sus relaciones jerárquicas (rangos de Reino, Clase, Orden y Familia) obtenido de https://www.catalogueoflife.org. A partir de éste se completa la información de los nombres por encima de familia a partir del contenido del campo Grupo/Familia durante la exportación al formato Darwin Core.</p>
 <p>- En GEORREF se añaden los siguientes nuevos campos: coordenada_inicio, coordenada_fin, nodo_sup, sinonimia_id (para la gestión de la sinonimia en las localidades) y wkt. </p>
 <p>- En la exportación a Internet se ha incluido procesos que mejora la publicación de los datos.</p>
 
